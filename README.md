@@ -43,7 +43,7 @@ Each unique `sensorSerialNumber` becomes a **device**, and each object becomes a
 
 ### Option 2 — Manual Installation
 
-1. Copy the folder `custom_components/BAPIWireless/` into your Home Assistant `config/custom_components/` directory.  
+1. Copy the folder `custom_components/bapiwireless/` into your Home Assistant `config/custom_components/` directory.  
 2. Restart Home Assistant.
 
 ---
@@ -73,7 +73,7 @@ You can change the polling interval later:
 
 ## 🧰 File Structure
 
-custom_components/BAPIWireless/
+custom_components/bapiwireless/
 ├── __init__.py
 ├── manifest.json
 ├── sensor.py
@@ -111,5 +111,5 @@ If no sensors appear:
 
 ## 📄 License
 
-MIT License © 2025 [Your Name or Organization]
+MIT License © 2025 
 

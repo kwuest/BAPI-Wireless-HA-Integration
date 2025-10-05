@@ -1,6 +1,6 @@
 {
     "name": "BAPI Wireless",
-    "domain": "BAPIWireless",
+    "domain": "bapiwireless",
     "country": "ALL",
     "homeassistant": "2025.7.4",
     "render_readme": true,
