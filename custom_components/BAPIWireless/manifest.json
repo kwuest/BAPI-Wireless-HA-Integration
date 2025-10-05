@@ -1,0 +1,10 @@
+{
+    "domain": "BAPIWireless",
+    "name": "BAPI Wireless Sensors",
+    "version": "1.1.0",
+    "documentation": "https://example.com",
+    "requirements": ["aiohttp"],
+    "codeowners": ["@yourgithubusername"],
+    "iot_class": "local_polling",
+    "config_flow": true
+}  
