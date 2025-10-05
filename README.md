@@ -1,4 +1,4 @@
-# 🧩 My Device Sensors (Home Assistant Integration)
+# 🧩 BAPI Wireless (Home Assistant Integration)
 
 A custom [Home Assistant](https://www.home-assistant.io) integration that connects BAPI Wireless products into Home Assistant and automatically imports all sensor data from its REST API endpoints.
 
