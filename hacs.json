@@ -1,6 +1,5 @@
 {
     "name": "BAPI Wireless",
-    "country": "ALL",
     "homeassistant": "2025.7.4",
     "hide_default_branch": false,
     "zip_release": false,
