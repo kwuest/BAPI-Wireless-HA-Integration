@@ -1,14 +1,9 @@
 {
     "name": "BAPI Wireless",
-    "domain": "bapiwireless",
     "country": "ALL",
     "homeassistant": "2025.7.4",
-    "render_readme": true,
-    "filename": "custom_components/BAPIWireless/__init__.py",
     "hide_default_branch": false,
     "zip_release": false,
-    "persistent_directory": "custom_components/BAPIWireless",
-    "iot_class": "local_polling",
     "content_in_root": false
-  }
+}
   
